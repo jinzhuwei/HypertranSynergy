@@ -1,4 +1,4 @@
-# Hts
+# HypertranSynergy
 A Granularity-level Information Fusion Strategy on Hypergraph Transformer for Predicting Synergistic Effects of Anticancer Drugs
 
 HypertranSynergy is a hypergraph learning network model used to predict the synergistic effect of anticancer drugs. 
@@ -28,5 +28,5 @@ you can make the embeddings contain rich grain-level information to make predict
    * Running the "main_.py" for the classification task.
    * Running the "main_reg.py" for  the regression task.
   
-# Others
-  updating...
+#  Acknowledgement
+Thanks the code from [Hts](https://github.com/HNUBioinformatics/Hts)
