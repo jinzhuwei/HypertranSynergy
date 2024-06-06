@@ -13,17 +13,6 @@ you can make the embeddings contain rich grain-level information to make predict
  * rdkit 2022.9.5
  * torch-geometric 2.1.0
 
-# Data 
- * cell line
-   * https://pan.baidu.com/s/1inc_gzfEeQRbieyAZhD7jQ  提取码：K527
-   * https://pan.baidu.com/s/1uliG6nxFbo_hAAiJuuz9rA  提取码：K529
- * drug
-   * https://pan.baidu.com/s/1d5j1VYp2WqlnpkRgLALqPQ  提取码：K528
-   * https://pan.baidu.com/s/1LnSmgc5ceFFWs1yr8jYB6g  提取码：K529
- * synergy
-   * https://pan.baidu.com/s/1wG4NQqnm0c88tRTX3vuplg  提取码：K529
-   * https://pan.baidu.com/s/1UMCkKUNqEdoTl1UHw-sqcg  提取码：K529
-
 # Running the Code 
    * Running the "main_.py" for the classification task.
    * Running the "main_reg.py" for  the regression task.
